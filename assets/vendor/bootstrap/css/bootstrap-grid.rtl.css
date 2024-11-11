@@ -693,6 +693,14 @@
         flex: 0 0 auto;
         width: 50%;
     }
+    .col-lg-6-1 {
+        flex: 0 0 auto;
+        width: 60%;
+    }
+    .col-lg-6-2 {
+        flex: 0 0 auto;
+        width: 40%;
+    }
     .col-lg-66 {
         flex: 0 0 auto;
     }

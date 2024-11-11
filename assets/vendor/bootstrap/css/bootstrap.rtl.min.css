@@ -653,7 +653,7 @@ progress {
     content: "— ";
 }
 .img-fluid {
-    max-width: 100%;
+    max-width: 200px;
     height: auto;
 }
 .img-thumbnail {
